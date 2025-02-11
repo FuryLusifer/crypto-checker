@@ -19,7 +19,7 @@ public class Main {
     public PanelConverter panelConverter;
     public PanelSettings panelSettings;
 
-    public static final String apiKey = "c04f1384-a57c-4c3f-806f-a7fc22ba718e";
+    public static final String apiKey = "your api key";
 
     public static String currency = "USD";
     public static String currencyChar = "$";
